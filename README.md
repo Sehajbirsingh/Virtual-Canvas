@@ -4,7 +4,7 @@ Computer vision project implemented with OpenCV with Machine learning using the 
 Ever wanted to draw your imagination by just waiving your finger in air. We build an Air Canvas which can draw anything on it by just motion of our hands and noticing the landmark on the hand knuckels. A very beautiful project for resume of machine learning people.
 We will be using the computer vision techniques of OpenCV to build this project. The preffered language is python due to its exhaustive libraries and easy to use syntax but understanding the basics it can be implemented in any OpenCV supported language.
 
-Here Hand landmarks detection and tracking is used in order to achieve the objective. <br><br>
+Here Hand landmark detection and tracking is used in order to achieve the main objective. <br><br>
 
 
 # Algorithm
